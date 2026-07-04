@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-!culd1dhkuntgloxvgarh^z-(!2vh_6n574h7po4-$edn_j8vk
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'employee-backend-1-wxkw.onrender.com'
+    'employee-backend-1-wxkw.onrender.com',
 ]
 
 
